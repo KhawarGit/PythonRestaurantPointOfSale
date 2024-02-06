@@ -25,10 +25,18 @@ Make sure you have the required dependencies installed before running the projec
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone
+   git clone https://github.com/KhawarGit/PythonRestaurantPointOfSale.git
 2. Open a terminal and navigate to the project directory.
    ```bash
    cd PythonRestaurantPointOfSale/SteakyStake
 3. Run the following command:
    ```bash
    python POS.py
+
+## Usage
+* Launch the application.
+* Follow the on-screen instructions to order steaks and other items.
+* Click the "TOTAL" button to calculate the total cost.
+* Click the "SAVE_BILL" button to generate and save the receipt.
+* Use the "Reset" button to clear the entered values.
+* Click "Exit" to close the application.
