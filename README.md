@@ -2,6 +2,13 @@
 
 This POS (Point of Sale) project is developed by Khawar Khan using Python and Tkinter for the user interface.
 
+## Table Of Contents
+- [Introduction](#Introduction)
+- [Features](#Features)
+- [Requirements](#Requirements)
+- [How to Run](#How-to-Run)
+- [Usage](#Usage)
+
 ## Introduction
 
 This project aims to create a simple POS system for a restaurant named "STEAKY STAKES." The system allows users to order various steaks and other items from the menu, calculate the total cost, and generate a receipt.
