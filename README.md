@@ -40,3 +40,6 @@ Make sure you have the required dependencies installed before running the projec
 * Click the "SAVE_BILL" button to generate and save the receipt.
 * Use the "Reset" button to clear the entered values.
 * Click "Exit" to close the application.
+<hr>   
+Author : 
+Khawar Khan
