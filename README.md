@@ -33,10 +33,18 @@ Make sure you have the required dependencies installed before running the projec
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/KhawarGit/PythonRestaurantPointOfSale.git
-2. Open a terminal and navigate to the project directory.
+2. Install Dependencies.
+   ```bash
+   pip install pyttsx3
+   ```
+   If you encounter any issues with the above command, you may need to use `pip3` instead, depending on your Python installation:
+   ```bash
+   pip3 install pyttsx3
+   ```
+3. Open a terminal and navigate to the project directory.
    ```bash
    cd PythonRestaurantPointOfSale/SteakyStake
-3. Run the following command:
+4. Run the following command:
    ```bash
    python POS.py
 
