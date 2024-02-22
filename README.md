@@ -57,4 +57,5 @@ Make sure you have the required dependencies installed before running the projec
 * Click "Exit" to close the application.
 <hr>   
 Author : 
-Khawar Khan
+Khawar Khan  <br />  
+LikedIn: www.linkedin.com/in/khawar-khan
